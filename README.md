@@ -17,4 +17,3 @@ Whuzzap. Im k1tsukendo. Full is Kitsugi Kendo (Kitsgi Kendo).  <br/>
 
 ### Contacts
 * [Kitsugi's Telegram](https://t.me/k1tsukendo "or @k1tsukendo")
-* [Kitsugi's Twitter](htpps://twitter.com/kitsugi_kendo "or @kitsugi_kendo")
