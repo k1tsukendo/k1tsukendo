@@ -1,16 +1,20 @@
-### Hi there 👋
+### k1tsukendo - the real heretic electro-girl
 
-<!--
-**k1tsukendo/k1tsukendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Whuzzap. Im k1tsukendo. Full is Kitsugi Kendo (Kitsgi Kendo).  <br/>
 
-Here are some ideas to get you started:
+### Some interesting facts
+* Im living in Helsinki, Finland.
+* Im working at python pygame-based engine named "*CuteEngine*".
+* Im girl.
+* Im fcking hate [Mikan-DS](https://github.com/Mikan-DS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What PL's i know
+* Python
+* C#
+* C++
+* Some-some Java
+* Bash a little
+
+### Contacts
+* [Kitsugi's Telegram](https://t.me/k1tsukendo "or @k1tsukendo")
+* [Kitsugi's Twitter](htpps://twitter.com/kitsugi_kendo "or @kitsugi_kendo")
